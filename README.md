@@ -1,21 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This repository is for a simple 'Hello World' program written in Python 3. The code prints "Hello World" to the console when run. It was created as an exercise in learning how to use Visual Studio Code together with GitHub to create a repository for version control.
 
-{Provide a description of your software}
+Below is a video demonstrating a quick walk-through of the 'Hello World' program and code. 
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lejGr8Qmkv0)
 
 # Development Environment
 
 * Visual Studio Code
-*Python 3.9.7 64
+* Python 3.9.7 64-bit
+* Git 2.34.1.windows.1
+
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Working with GitHub in VS Code](https://code.visualstudio.com/docs/editor/github)
+* [Git Downloads](https://git-scm.com/downloads)
